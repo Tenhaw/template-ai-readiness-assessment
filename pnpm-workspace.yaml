@@ -1,0 +1,3 @@
+minimumReleaseAgeExclude:
+  - '@tenhaw/ai-readiness@1.0.0'
+  - '@tenhaw/core@1.0.0'
