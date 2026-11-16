@@ -9,11 +9,11 @@ importers:
   .:
     dependencies:
       '@tenhaw/ai-readiness':
-        specifier: 1.0.0
-        version: 1.0.0
+        specifier: 1.0.1
+        version: 1.0.1
       '@tenhaw/core':
-        specifier: 1.0.0
-        version: 1.0.0
+        specifier: 1.0.1
+        version: 1.0.1
       next:
         specifier: 16.4.5
         version: 16.4.5(@playwright/test@1.65.1)(@types/node@22.20.5)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)
@@ -575,12 +575,12 @@ packages:
   '@swc/helpers@0.5.23':
     resolution: {integrity: sha512-5lSsMOTXURePglDfvuAQUqkGek9Hg2kksOYay2m0+XR++b2NWYL/4sWyuvVBIs8oKnJaxkdi9whaL/sqN13afw==}
 
-  '@tenhaw/ai-readiness@1.0.0':
-    resolution: {integrity: sha512-2//rkjbLTqK0sVUWqbooSPF5cCz7qqZHqwUUQCRi2MQbki1dqMyzCbEv97e/o+aCYyEBZclqPD0/+CLIospDbA==}
+  '@tenhaw/ai-readiness@1.0.1':
+    resolution: {integrity: sha512-EvTnYpx+wL4xtpnt8ktuakHBXaKB+UQ4Ml4V7dPyablBpG0lSB56wVNtR1ic5ZGDqViDtP1JVKPzRJa9Yg7ZjA==}
     engines: {node: '>=22'}
 
-  '@tenhaw/core@1.0.0':
-    resolution: {integrity: sha512-0k2+kuhYFZUniU8/gd1367E1yqC6N2suj7tOrM391v+1+15/jySR36WWWsMCnG2T7taXgkTm0BR/2PgTfPd0FQ==}
+  '@tenhaw/core@1.0.1':
+    resolution: {integrity: sha512-LpLBvR5cxygnSTQgc3hNgM/JUJDIrO9J7hZs0xcuqPPuEywJDH9wSqHORUo48aRW612UOt+1+wrrnpb6O7iUCw==}
     engines: {node: '>=22'}
 
   '@types/chai@5.2.3':
@@ -1279,11 +1279,11 @@ snapshots:
     dependencies:
       tslib: 2.9.1
 
-  '@tenhaw/ai-readiness@1.0.0':
+  '@tenhaw/ai-readiness@1.0.1':
     dependencies:
-      '@tenhaw/core': 1.0.0
+      '@tenhaw/core': 1.0.1
 
-  '@tenhaw/core@1.0.0':
+  '@tenhaw/core@1.0.1':
     dependencies:
       ajv: 8.20.0
       ajv-formats: 3.0.1(ajv@8.20.0)
